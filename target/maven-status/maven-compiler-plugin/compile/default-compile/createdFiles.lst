@@ -1,0 +1,12 @@
+vn\com\fsoft\bidding\itemws\service\ItemManagerImpl.class
+vn\com\fsoft\bidding\itemws\service\ItemManager.class
+vn\com\fsoft\bidding\restful\controller\AccountController.class
+vn\com\fsoft\bidding\itemws\service\AccountManager.class
+vn\com\fsoft\bidding\itemws\service\AccountManagerImpl.class
+vn\com\fsoft\bidding\itemws\persistence\ItemDAO.class
+vn\com\fsoft\bidding\itemws\persistence\ItemDAOImpl.class
+vn\com\fsoft\bidding\itemws\persistence\AccountDAO.class
+vn\com\fsoft\bidding\restful\dto\Item.class
+vn\com\fsoft\bidding\restful\controller\ItemController.class
+vn\com\fsoft\bidding\restful\dto\Account.class
+vn\com\fsoft\bidding\itemws\persistence\AccountDAOImpl.class
